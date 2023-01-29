@@ -464,7 +464,7 @@ span.serchfile {
 
 
 .footer {
-    background-color: #C51E1B;
+    background-color: #ad7703;
     padding: 50px 0 0px 0;
 }
 .social-media-link {
@@ -487,16 +487,15 @@ span.serchfile {
 .social-media-link a {
     width: 46px;
     height: 46px;
-    background: #ffffff;
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    font-size: 19px;
-    color:#C51E1B;
+    font-size: 25px;
+    color:#ffffff;
 }
 
 .footer-bottom {
-    background-color: #C51E1B;
+    background-color: #AD7703;
     color: #fff;
     margin-top: 75px;
     position: relative;
@@ -561,7 +560,7 @@ span.serchfile {
     border: 1px solid #efb539;
 }
 .contact-pag form button {
-    background-color: #c41816;
+    background-color: #EFB637;
     color: #fff;
     font-size: 18px;
     letter-spacing: 0.5px;
